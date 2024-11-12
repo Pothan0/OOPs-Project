@@ -17,7 +17,7 @@ We use RSA encryption algorithm to encrypt and decrypt messages in the form of s
 
 
 ### Algorithm 2: Shortest path finding algorithm 
-We use FloydWarshall algorithm to find shortest paths across 128 cities in North america the nodes represent the cities while the weight represent the distances
+We use FloydWarshall algorithm to find shortest paths across 128 cities in North america in which we have a 128x128 adjacency matrix representing  the distances across the cities
 
 
 
